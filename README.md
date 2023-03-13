@@ -1,5 +1,6 @@
 # JIT-defect-prediction-Android-apps
-Just-In-Time defect prediction for Android apps.
+Just-In-Time defect prediction for Android app for the paper `Just-in-Time Defect Prediction for Mobile Applications: 
+Using Shallow or Deep Learning?` by Raymon van Dinter, Cagatay Catal, Görkem Giray, and Bedir Tekinerdogan.
 
 # Datasets
 The datasets can be retrieved from:
